@@ -1,0 +1,24 @@
+secrets
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform backend configuration
+terraform.tfvars
+
+# Terraform modules
+.terraform/
+
+# Plan files
+*.tfplan
+
+# Log files
+*.log
+
+# Credentials files
+*.tfvars
+*.tfvars.*
+
+# Lock files
+*.lock.*
