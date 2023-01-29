@@ -1,5 +1,7 @@
 # minecraft-server-infra
 
+Terraform script to bootstrap a linode instance.
+
 # Usage
 
 Run the following commands:
